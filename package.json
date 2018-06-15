@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sanjoyk/npm-custom-module.git"
   },
-  "author": "Sanjoy Sardar",
+  "author": "Sanjoy sardar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sanjoyk/npm-custom-module/issues"
